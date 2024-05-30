@@ -2,22 +2,22 @@ body
 {
     font-family: "Helvetica Neue", sans-serif;
     font-size: 24px;
-    background-color: #fafafa;
-  }
+    background-color: #8bc3f8;
+}
   
-  h1 
-  { 
+h1 
+{ 
     font-size: 48px;
     font-weight: bold;
-  }
+}
   
-  h2 
-  {
-    font-size: 36px;
-  }
+h2 
+{
+   font-size: 36px;
+}
   
-  h3 
-  {
+h3 
+{
     font-size: 28px;
     font-weight: bold;
-  }
+}
