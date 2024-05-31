@@ -15,6 +15,10 @@ h2
 {
    font-size: 36px;
    padding: 0%;
+   padding-left: 5px;
+   border: 2px solid #000000;
+   border-radius: 25px;
+   box-sizing: content-box;
 }
   
 h3 
